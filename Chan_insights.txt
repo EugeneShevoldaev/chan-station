@@ -1,3 +1,10 @@
+# Ссылки на внешние репозитории для загрузки данных:
+# Архив логов: https://raw.githubusercontent.com/EugeneShevoldaev/chan-station/refs/heads/main/archive_logs.txt
+# - содержит все предыдущие логи чата, используется для восстановления контекста и анализа истории
+
+# Инсайты: https://raw.githubusercontent.com/EugeneShevoldaev/chan-station/refs/heads/main/Chan_insights.txt
+# - краткие записи с важными наблюдениями и идеями, которые можно использовать при построении промпта
+
 Инсайт #1 — Стартовый контекст
 
 Логи: каждая сессия → 15 пунктов выжимки; подгружать 10 ближайших.
